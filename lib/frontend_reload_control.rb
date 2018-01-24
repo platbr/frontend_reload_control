@@ -1,5 +1,5 @@
-require "frontend_reload_control/version"
+# encoding: utf-8
 
-module FrontendReloadControl
-  # Your code goes here...
-end
+require "frontend_reload_control/version"
+require "frontend_reload_control/rails"
+require "frontend_reload_control/engine"

@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Wagner Caixeta"]
   spec.email         = ["wagner.caixeta@al.go.leg.br"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{This gem makes browser to reload the page when the rails APP is updated.}
+  spec.description   = %q{This gem makes browser to reload the page when the rails APP is updated. This is usefull for Single Page APPs.}
+  spec.homepage      = "https://github.com/platbr/frontend_reload_control"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
