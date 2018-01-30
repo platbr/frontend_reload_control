@@ -30,4 +30,4 @@ Need help? https://github.com/cyu/rack-cors
 # Tips
 This gem will looks for timestamp.txt file on root of project to setup the actual version of app, if it doesn't exists it will use Time.now.to_i at APP startup.
 
-If you want to avoid browser to reload for each APP restarts you need to fill timestamp.txt when you deploy your APP.
+If you want to avoid browser to reload for each APP restarts you need to create timestamp.txt when you deploy your APP.
