@@ -14,7 +14,7 @@ Add in application.js
 ```
 //= require frontend_reload_control
 ```
-
+Inject "frontendReloadControl" on your Angular module and
 Add on your main modules
 ```
 .config(function ($httpProvider) {
